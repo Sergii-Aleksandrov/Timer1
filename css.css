@@ -1,0 +1,23 @@
+#div {
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 22px;
+}
+#table {
+	height: 100px;
+	border: 2px;
+}
+.tr1 {
+	font-style: italic;
+	font-weight: bold;
+}
+.td1 {
+	text-align: center;
+	width: 90px;
+}
+.tr2 {
+	font-family: "Comic Sans MS", Georgia;
+	font-size: 18px;
+	text-align: center;
+}
