@@ -1,2 +1,2 @@
-# Timer1
+# Timer
 timer until new year
